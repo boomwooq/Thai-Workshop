@@ -1,0 +1,30 @@
+# various scripts for Thai workflow in Robofont
+
+I have customized my Thai workflow in Robofont, and I recommend you do the same.
+
+### install startup scripts:
+
+* `contextual_filters.py` https://gist.github.com/frankrolf/07d09be24d22413e55ba2a9b4d12a2c8
+* `ramsayController.py` 
+
+
+### install RF extensions
+
+* RamsaySt
+* Adjust Anchors
+* Mark Feature Helper
+
+
+### install RF scripts
+
+Put the whole `Thai Workshop` folder in your Robofont scripts directory.
+
+Various scripts are contained:
+* a script to clear anchors from selected glyphs (or current glyph)
+* scripts to select Thai glyphs based on category
+* scripts to drop approximate anchors per-category (in selected glyphs or curent glyph). Please note: the anchors may need to be adjusted manually after dropping. Also, the scripts will not delete anchors for you, so make sure you delete anchors first.
+
+
+## manual intervention:
+
+change the Thai-specific BOR_HEIGHT variable in `modules/settings.py` to correspond to your specific setup.
