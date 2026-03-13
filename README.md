@@ -1,6 +1,6 @@
 # various scripts for Thai workflow in Robofont
 
-I have customized my Thai workflow in Robofont, and I recommend you do the same.
+Hi all, I have customized my Thai workflow in Robofont, and I recommend you do the same. So it's easier to follow through along the workshop.
 
 ### install startup scripts:
 
