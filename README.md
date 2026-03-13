@@ -7,6 +7,8 @@ Hi all, I have customized my Thai workflow in Robofont, and I recommend you do t
 * `contextual_filters.py` https://gist.github.com/frankrolf/07d09be24d22413e55ba2a9b4d12a2c8
 * `ramsayController.py` https://gist.github.com/frankrolf/d15bf1d1dff97d455238100817e1833a
 
+[How to set up a start up script](https://robofont.com/documentation/tutorials/setting-up-a-startup-script/)
+
 
 ### install RF extensions
 
