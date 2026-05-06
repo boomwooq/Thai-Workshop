@@ -11,10 +11,12 @@ Hi all, I have customized my Thai workflow in Robofont, and I recommend you do t
 
 
 ### install RF extensions
+Through Extension -> "Mechanic"
 
 * RamsaySt
 * Adjust Anchors
 * Mark Feature Helper
+* Mark Positioning tool
 
 
 ### install RF scripts
@@ -30,3 +32,23 @@ Various scripts are contained:
 ## manual intervention:
 
 Change the Thai-specific BOR_HEIGHT variable in `modules/settings.py` to correspond to your specific setup.
+
+## How to
+In Thai, we need anchors in both consonant + tonemark. See more in [PDF explanation](https://www.dropbox.com/scl/fi/xdby9ucbn51j1ugky4x95/Thai-MarktoMark.pdf?rlkey=0ebf29qk8isn9gdfy9lotl7vy&dl=0) 
+
+### Set up during the drawing process
+1. Open “settings.py” Scripts -> Thai Workshop -> modules -> settings.py
+2. Change the BOR_HEIGHT value, it’s the Thai height value 
+3. To see/preview the position of the tonemark using plug-in : 
+    1. Mark Positioning Tool 
+    2. Adjust Anchors
+
+Note: If No.2 is not set properly, the anchors will positioning wrongly, so please make sure to do this step.
+
+### Set up for generating the font file
+**Please make sure that the anchors were set on both consonant and tonemark. 
+1. Open plug-in “mark feature helper” 
+2. Click “Filter Eligible Glyphs” -> you will see the tonemark or / and diacritics show in the overall font view.
+3. Then click “
+
+
