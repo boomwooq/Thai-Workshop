@@ -49,6 +49,7 @@ Note: If No.2 is not set properly, the anchors will positioning wrongly, so plea
 **Please make sure that the anchors were set on both consonant and tonemark. 
 1. Open plug-in “mark feature helper” 
 2. Click “Filter Eligible Glyphs” -> you will see the tonemark or / and diacritics show in the overall font view.
-3. Then click “
+3. Then click “Build Group From Selection" -> this will create "COMBINING_MARKS" group
+![Screenshot of Robofont's group view](/images/CleanShot 2026-05-06 at 12.50.42@2x.png)
 
 
