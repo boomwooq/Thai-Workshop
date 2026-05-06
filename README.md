@@ -50,6 +50,6 @@ Note: If No.2 is not set properly, the anchors will positioning wrongly, so plea
 1. Open plug-in “mark feature helper” 
 2. Click “Filter Eligible Glyphs” -> you will see the tonemark or / and diacritics show in the overall font view.
 3. Then click “Build Group From Selection" -> this will create "COMBINING_MARKS" group
-![Screenshot of Robofont's group view](https://github.com/boomwooq/Thai-Workshop/tree/main/images)
+![Screenshot of Robofont's group view](https://github.com/boomwooq/Thai-Workshop/tree/main/images/CleanShot 2026-05-06 at 12.50.42@2x.png)
 
 
