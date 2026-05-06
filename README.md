@@ -53,6 +53,22 @@ Note: If No.2 is not set properly, the anchors will positioning wrongly, so plea
 ![Screenshot of Robofont's group view](https://github.com/boomwooq/Thai-Workshop/blob/main/images/CleanShot%202026-05-06%20at%2012.50.42%402x.png)
 
 Close and reopen the plug-in again at this stage after 1-3 are set.
-4. 
+4. Then re-open Mark Feature Helper again, this time we will make sure that (see image below)
+	1. write mark.fea
+	2. write mkmk.fea 
+	both are selected
+5. Then we click "Write Features Files" button -> within the same folder you will notice that there are two new files "mark.fea", and "mkmk.fea"
+![Screenshot of Mark Feature Helper option](https://github.com/boomwooq/Thai-Workshop/blob/main/images/CleanShot%202026-05-06%20at%2013.59.28%402x.png)
+![Screenshot of mark.fea and mkmk.fea appear in the folder](https://github.com/boomwooq/Thai-Workshop/blob/main/images/CleanShot%202026-05-06%20at%2013.01.15%402x.png)
+
+6. Now you can generate the font through File -> Generate Font
+
+Note: Everytime, you make change with anchors in any glyphs, those mark features have to be rewrite again.
+
+## Check if the feature is working or not
+There are multiple ways to check the opentype feature, 
+1. You can check it by using [FontGoggles](https://fontgoggles.org)
+2. You can do the typesetting in Adobe Indesign, Illustrator or others. If you are using .indd or .ai, please make sure you turn on [this setting](https://www.dropbox.com/scl/fi/7tc1454qn6081l0xxk7u9/BT_Thai_Guideline_InDDandAi2025.pdf?rlkey=2mrcxgi3tr8bxnqv0cukwbrsz&dl=0)
+3. You can do the typesetting on your web browsers.
 
 
