@@ -69,6 +69,6 @@ Note: Everytime, you make change with anchors in any glyphs, those mark features
 There are multiple ways to check the opentype feature, 
 1. You can check it by using [FontGoggles](https://fontgoggles.org)
 2. You can do the typesetting in Adobe Indesign, Illustrator or others. If you are using .indd or .ai, please make sure you turn on [this setting](https://www.dropbox.com/scl/fi/7tc1454qn6081l0xxk7u9/BT_Thai_Guideline_InDDandAi2025.pdf?rlkey=2mrcxgi3tr8bxnqv0cukwbrsz&dl=0)
-3. You can do the typesetting on your web browsers.
+3. You can do the typesetting in the web browsers.
 
 
