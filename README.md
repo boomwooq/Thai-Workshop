@@ -52,4 +52,7 @@ Note: If No.2 is not set properly, the anchors will positioning wrongly, so plea
 3. Then click “Build Group From Selection" -> this will create "COMBINING_MARKS" group (see image below)
 ![Screenshot of Robofont's group view](https://github.com/boomwooq/Thai-Workshop/blob/main/images/CleanShot%202026-05-06%20at%2012.50.42%402x.png)
 
+Close and reopen the plug-in again at this stage after 1-3 are set.
+4. 
+
 
